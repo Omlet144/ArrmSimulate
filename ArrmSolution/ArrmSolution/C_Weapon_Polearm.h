@@ -5,7 +5,7 @@
 class C_Weapon_Polearm :
     public C_Weapon
 {
-    virtual void attack() override { std::cout << "func 1 of child\n"; }
-    virtual void  breack() override { std::cout << "func 1 of child\n"; }
+    virtual void attack() override { std::cout << "Polearm attack:\n"; }
+    virtual void  breack() override { std::cout << "Polearm breack:\n"; }
 };
 

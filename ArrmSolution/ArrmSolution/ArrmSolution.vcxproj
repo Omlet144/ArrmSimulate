@@ -143,12 +143,16 @@
     <ClCompile Include="C_Weapon.cpp" />
     <ClCompile Include="C_Weapon_Hand.cpp" />
     <ClCompile Include="C_Weapon_Polearm.cpp" />
+    <ClCompile Include="C_Weapon_Polearm_spear.cpp" />
+    <ClCompile Include="C_Weapon_Polearm_spear_halberd.cpp" />
     <ClCompile Include="C_Weapon_Shooting.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Weapon.h" />
     <ClInclude Include="C_Weapon_Hand.h" />
     <ClInclude Include="C_Weapon_Polearm.h" />
+    <ClInclude Include="C_Weapon_Polearm_spear.h" />
+    <ClInclude Include="C_Weapon_Polearm_spear_halberd.h" />
     <ClInclude Include="C_Weapon_Shooting.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
