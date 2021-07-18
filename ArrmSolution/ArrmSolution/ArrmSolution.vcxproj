@@ -142,6 +142,8 @@
     <ClCompile Include="ArrmSolution.cpp" />
     <ClCompile Include="C_Weapon.cpp" />
     <ClCompile Include="C_Weapon_Hand.cpp" />
+    <ClCompile Include="C_Weapon_Hand_saber.cpp" />
+    <ClCompile Include="C_Weapon_Hand_sword.cpp" />
     <ClCompile Include="C_Weapon_Polearm.cpp" />
     <ClCompile Include="C_Weapon_Polearm_spear.cpp" />
     <ClCompile Include="C_Weapon_Polearm_spear_halberd.cpp" />
@@ -150,6 +152,8 @@
   <ItemGroup>
     <ClInclude Include="C_Weapon.h" />
     <ClInclude Include="C_Weapon_Hand.h" />
+    <ClInclude Include="C_Weapon_Hand_saber.h" />
+    <ClInclude Include="C_Weapon_Hand_sword.h" />
     <ClInclude Include="C_Weapon_Polearm.h" />
     <ClInclude Include="C_Weapon_Polearm_spear.h" />
     <ClInclude Include="C_Weapon_Polearm_spear_halberd.h" />
