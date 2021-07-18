@@ -42,6 +42,12 @@
     <ClCompile Include="C_Weapon_Hand_saber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C_Weapon_Shooting_bow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Weapon_Shooting_bow_crossbow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Weapon.h">
@@ -66,6 +72,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C_Weapon_Hand_saber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Weapon_Shooting_bow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Weapon_Shooting_bow_crossbow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
